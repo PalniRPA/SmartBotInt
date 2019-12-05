@@ -1,6 +1,6 @@
 {
-  "name": "Checkuserdetails",
-  "description": "Blank Process",
+  "name": "Zaspire-ResetP",
+  "description": "Zaspire-ResetP",
   "main": "Main.xaml",
   "dependencies": {
     "DesktopVideoRecorder.Activities": "[1.0.0]",
